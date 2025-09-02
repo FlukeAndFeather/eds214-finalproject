@@ -39,15 +39,17 @@ In relation to the first one, I have one R script called `dataimport_cleaning.R`
 
 [M] Raw data is contained in its own folder
 
-[NY] Intermediate outputs are created and saved to a separate folder from raw data
+[M] Intermediate outputs are created and saved to a separate folder from raw data
 
 -   data/ should contain raw data. Outputs should go in a separate (not nested) folder called outputs/.
+-   Looks great now!
 
 *spec comment addressed. adjusted data folder structure and added new output folder*
 
-[NY] **At least one piece of functionality has been refactored into a function in its own file**
+[M] **At least one piece of functionality has been refactored into a function in its own file**
 
 -   The R/ directory should *only* contain function definitions. Move other types of scripts elsewhere.
+-   Perfect!
 
 *spec comment addressed. moved non-function scripts in root project directory.*
 
@@ -55,7 +57,9 @@ In relation to the first one, I have one R script called `dataimport_cleaning.R`
 
 [M] The repo has a README that explains where to find (1) data, (2) analysis script, (3) supporting code, and (4) outputs
 
-[M] **The README includes a flowchart and text explaining how the analysis works**
+[E] **The README includes a flowchart and text explaining how the analysis works**
+
+-   Fantastic flowchart and overall very professional README
 
 [M] **The code is appropriately commented**
 
@@ -73,13 +77,15 @@ After cloning the repo on Workbench:
 
 **NOTE:** Talk to me about these three - let's come up with a solution since you were out sick for a day.
 
-[NY] **The student has provided attentive, constructive feedback in a peer review**
+[M] **The student has provided attentive, constructive feedback in a peer review**
 
 *I think I did this during my sick day?* <https://github.com/petervitale910/eds214-hurricane/pull/17/commits/d2ef41ed65bb275817246e8978bc04f0ef24b10e>
 
+- You sure did. Well done!
+
 [NY] **The student has contributed to a peer's repo by opening an issue and creating a pull request**
 
-[NY] The repo has at least three closed GitHub issues
+[M] The repo has at least three closed GitHub issues
 
 *spec addressed. created two issues and closed them.*
 
